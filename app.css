@@ -1,0 +1,19 @@
+html {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#map {
+  width: 90%;
+  height: 20rem;
+  border: 2px solid #ccc;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin: 2rem auto;
+}
